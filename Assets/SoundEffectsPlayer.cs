@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SfxPlayer : MonoBehaviour
+public class SoundEffectsPlayer : MonoBehaviour
 {
-  public AudioSource src;
-  public AudioClip sfx1, sfx2, sfx3, sfx4;
+    public AudioSource src;
+    public AudioClip sfx1, sfx2, sfx3, sfx4;
 
   public void Button1()
 {
@@ -29,5 +29,5 @@ public void Button4()
 {
     src.clip = sfx4;
     src.Play();
-}
+} 
 }
