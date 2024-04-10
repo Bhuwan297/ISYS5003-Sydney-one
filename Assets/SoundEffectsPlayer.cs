@@ -5,29 +5,11 @@ using UnityEngine;
 public class SoundEffectsPlayer : MonoBehaviour
 {
     public AudioSource src;
-    public AudioClip sfx1, sfx2, sfx3, sfx4;
+    public AudioClip sfx1;
 
   public void Button1()
 {
     src.clip = sfx1;
     src.Play();
 }
-
-public void Button2()
-{
-    src.clip = sfx2;
-    src.Play();
-}
-
-  public void Button3()
-{
-    src.clip = sfx3;
-    src.Play();
-}
-
-public void Button4()
-{
-    src.clip = sfx4;
-    src.Play();
 } 
-}
