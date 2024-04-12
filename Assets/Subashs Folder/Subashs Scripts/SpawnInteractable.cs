@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class SpawnInteractable : MonoBehaviour
 {
-    private Slider scaleSlider;
+    
+ private Slider scaleSlider;
     private Slider rotateSlider;
     [SerializeField] float scaleMinValue;
     [SerializeField] float scaleMaxValue;
@@ -44,4 +45,5 @@ public class SpawnInteractable : MonoBehaviour
     {
         transform.localEulerAngles = new Vector3(transform.rotation.x, value, transform.rotation.z);
     }
+
 }
