@@ -471,7 +471,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
+  cameraUsageDescription: Used for augmented reality features
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
