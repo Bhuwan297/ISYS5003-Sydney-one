@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4669375583798152527}
   - component: {fileID: -3581896948192269987}
   - component: {fileID: -3452788333642172837}
+  - component: {fileID: -5410604527919606697}
   m_Layer: 0
   m_Name: Spawnable
   m_TagString: Spawnable
@@ -116,6 +117,20 @@ MonoBehaviour:
   rotMinValue: 0
   rotMaxValue: 360
 --- !u!114 &-3452788333642172837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3716894417367616160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36610a4a4d3cd6741a717d7d2752c217, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RaycastManager: {fileID: 0}
+  spawnablePrefab: {fileID: 0}
+--- !u!114 &-5410604527919606697
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
