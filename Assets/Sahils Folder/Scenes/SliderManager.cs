@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SpawnInteractable_Adam : MonoBehaviour
+public class SliderManager : MonoBehaviour
 {
     private Slider scaleSlider;
     private Slider rotateSlider;
