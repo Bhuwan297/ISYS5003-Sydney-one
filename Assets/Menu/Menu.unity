@@ -431,7 +431,7 @@ GameObject:
   - component: {fileID: 216543162}
   - component: {fileID: 216543164}
   m_Layer: 0
-  m_Name: GameObject1
+  m_Name: GameObjectS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -580,18 +580,6 @@ MonoBehaviour:
           m_StringArgument: Sahils Scene
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1904005221}
-        m_TargetAssemblyTypeName: SfxPlayer, Assembly-CSharp
-        m_MethodName: PlayWaterdrop
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 216543162}
         m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
         m_MethodName: PlayDrop5
@@ -599,18 +587,6 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 372964464}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: PlayOneShot
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 74795455e357f5e4b82d0992505d19d4, type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -855,18 +831,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 372964464}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &257079263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1031,18 +995,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 372964464}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &372329655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1101,11 +1053,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
---- !u!82 &372964464 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 6321950207630526816, guid: f8da398e49450074d9805368382d4c0f, type: 3}
-  m_PrefabInstance: {fileID: 6318901529192041213}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &417953837
 GameObject:
   m_ObjectHideFlags: 0
@@ -2020,18 +1967,6 @@ MonoBehaviour:
       - m_Target: {fileID: 216543162}
         m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
         m_MethodName: PlayDrop4
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 372964464}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4021,6 +3956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1904005222}
   - component: {fileID: 1904005221}
+  - component: {fileID: 1904005223}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -4057,6 +3993,22 @@ Transform:
   m_Father: {fileID: 720556869}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1904005223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904005220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5576b6a4ea42d4997ef6740b3a1a8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Drop2: {fileID: 0}
+  Drop3: {fileID: 0}
+  Drop4: {fileID: 0}
+  Drop5: {fileID: 0}
 --- !u!1 &2101837812
 GameObject:
   m_ObjectHideFlags: 0
