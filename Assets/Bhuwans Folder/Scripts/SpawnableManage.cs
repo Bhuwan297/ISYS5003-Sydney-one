@@ -1,11 +1,12 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 
+
 public class SpawnableManage : MonoBehaviour
 {
-
     [SerializeField] ARRaycastManager m_RaycastManager;
     List<ARRaycastHit> m_Hits = new List<ARRaycastHit>();
     [SerializeField] GameObject spawnablePrefab;
@@ -57,5 +58,4 @@ public class SpawnableManage : MonoBehaviour
     {
         spawnedObject = Instantiate(spawnablePrefab, position, Quaternion.identity);
     }
-
 }
