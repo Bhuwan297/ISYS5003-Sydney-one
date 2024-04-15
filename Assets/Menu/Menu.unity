@@ -598,7 +598,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -298, y: -883}
+  m_AnchoredPosition: {x: -297.99997, y: -883}
   m_SizeDelta: {x: -1063.1703, y: -2741.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &237946473
@@ -655,18 +655,6 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Sahils Scene
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 216543162}
-        m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
-        m_MethodName: PlayDrop5
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &237946474
@@ -825,7 +813,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -295, y: -571}
+  m_AnchoredPosition: {x: -294.99997, y: -571}
   m_SizeDelta: {x: -1063.1703, y: -2741.8418}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &257079262
@@ -882,18 +870,6 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: BhuwanScene
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 168399747}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &257079263
@@ -1158,7 +1134,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -302, y: -248}
+  m_AnchoredPosition: {x: -301.99997, y: -247.99998}
   m_SizeDelta: {x: -1063.1703, y: -2742.0146}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &372329654
@@ -1215,30 +1191,6 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Ashrafuls Scene
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2101837814}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 216543162}
-        m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
-        m_MethodName: PlayDrop2
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &372329655
@@ -2214,7 +2166,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -270, y: -1205}
+  m_AnchoredPosition: {x: -269.99997, y: -1205}
   m_SizeDelta: {x: -1063.1703, y: -2741.9724}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &847688064
@@ -2271,30 +2223,6 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Subashs Scene
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1904005221}
-        m_TargetAssemblyTypeName: SfxPlayer, Assembly-CSharp
-        m_MethodName: PlayWaterdrop2
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 216543162}
-        m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
-        m_MethodName: PlayDrop4
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &847688065
