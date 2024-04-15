@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028346, g: 0.22571373, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -598,7 +598,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -297.99997, y: -883}
+  m_AnchoredPosition: {x: -297.99994, y: -883}
   m_SizeDelta: {x: -1063.1703, y: -2741.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &237946473
@@ -813,7 +813,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -294.99997, y: -571}
+  m_AnchoredPosition: {x: -294.99994, y: -571}
   m_SizeDelta: {x: -1063.1703, y: -2741.8418}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &257079262
@@ -1134,7 +1134,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -301.99997, y: -247.99998}
+  m_AnchoredPosition: {x: -301.99994, y: -248}
   m_SizeDelta: {x: -1063.1703, y: -2742.0146}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &372329654
@@ -2166,7 +2166,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -269.99997, y: -1205}
+  m_AnchoredPosition: {x: -269.99994, y: -1205}
   m_SizeDelta: {x: -1063.1703, y: -2741.9724}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &847688064
@@ -4413,27 +4413,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalScale.x
-      value: 350
+      value: 1080.24
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalScale.y
-      value: 350
+      value: 1080.24
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalScale.z
-      value: 350
+      value: 1080.24
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 386
+      value: 890
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -532
+      value: -694
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -179
+      value: 1980
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e813baa34e94ec43b443bcb47cd49cc, type: 3}
       propertyPath: m_LocalRotation.w
