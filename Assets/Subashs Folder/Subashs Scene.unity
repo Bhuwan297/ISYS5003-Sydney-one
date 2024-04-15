@@ -389,7 +389,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464529113}
-  m_LocalRotation: {x: -0, y: -0, z: 0.70808595, w: 0.7061264}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7082908, w: 0.7059208}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 8.99, y: 1.7, z: 1}
   m_ConstrainProportionsScale: 0
@@ -399,11 +399,11 @@ RectTransform:
   - {fileID: 1569037726}
   m_Father: {fileID: 1713141633}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.159}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.192}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 412, y: -323}
-  m_SizeDelta: {x: 119, y: 78.1}
+  m_AnchoredPosition: {x: 457, y: -589.7308}
+  m_SizeDelta: {x: 100, y: 78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &464529115
 MonoBehaviour:
@@ -910,17 +910,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 984577265}
-  m_LocalRotation: {x: -0, y: -0, z: 0.009855121, w: 0.9999514}
+  m_LocalRotation: {x: -0, y: -0, z: 0.00613929, w: 0.99998116}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1713141633}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.129}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.704}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -47, y: -1124}
+  m_AnchoredPosition: {x: -47, y: -1119}
   m_SizeDelta: {x: 1012.2523, y: 78.9823}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &984577267
@@ -943,7 +943,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Drag to rotate the object
+  m_text: Slide to rotate the object
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1289,8 +1289,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -2.93137, y: 0}
+  m_SizeDelta: {x: -5.86274, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1225277884
 MonoBehaviour:
@@ -1305,7 +1305,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.5254902, g: 0.7254902, b: 0.47450984, a: 1}
+  m_Color: {r: 0.8679245, g: 0.33195636, b: 0.289854, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1367,7 +1367,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.717, y: 951.0256}
+  m_AnchoredPosition: {x: 23.717, y: 1081}
   m_SizeDelta: {x: 266.19, y: 131.4649}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1320906387
@@ -1458,7 +1458,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7786f021e2e01224596039df378dc25d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 233e23c919e7ad548a3ffa20d2c1d7be, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1513,7 +1513,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -75, y: -982}
+  m_AnchoredPosition: {x: -114, y: -1004}
   m_SizeDelta: {x: 100, y: 78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1321529028
@@ -1602,7 +1602,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -2.2, y: 0}
+  m_AnchoredPosition: {x: -4, y: 0}
   m_SizeDelta: {x: 11.93, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1471212756
@@ -1625,7 +1625,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 21300000, guid: c168036d611489c4e86b8da087fe8848, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1809,7 +1809,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -2.2, y: -0.000011444092}
+  m_AnchoredPosition: {x: -4.3, y: -0.000011444092}
   m_SizeDelta: {x: 11.93, y: -0.000022053719}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1595334205
@@ -1832,7 +1832,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 21300000, guid: 3f999f44f1eaa8944a4514444b5d4785, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2050,7 +2050,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6297368, g: 0.8679245, b: 0.56824493, a: 1}
+  m_Color: {r: 0.6392157, g: 0.27058825, b: 0.2392157, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2100,17 +2100,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128744850}
-  m_LocalRotation: {x: -0, y: -0, z: 0.703469, w: 0.7107261}
+  m_LocalRotation: {x: -0, y: -0, z: 0.71077585, w: 0.7034187}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1713141633}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.412}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.596}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 542, y: -284.02832}
+  m_AnchoredPosition: {x: 558, y: -513}
   m_SizeDelta: {x: 1012.2523, y: 78.9823}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2128744852
@@ -2133,7 +2133,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Drag to scale the object
+  m_text: Slide to scale the object
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
