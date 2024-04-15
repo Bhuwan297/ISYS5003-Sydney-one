@@ -12,14 +12,11 @@ EditorBuildSettings:
     path: Assets/Ashrafuls Folder/Ashrafuls Scene.unity
     guid: 26b29e9b076004f9eb498a46b3f733e1
   - enabled: 1
-    path: Assets/Bhuwans Folder/Bhuwans Scene.unity
-    guid: df76f7428c3f24ce293f1d3daff89a89
-  - enabled: 1
     path: Assets/Menu/Menu.unity
     guid: 224d861ee34aa48739aa2b438bfaeb6b
-  - enabled: 0
-    path: Assets/Sahils Folder/Scenes/Menu Scene.unity
-    guid: bbc6e3e5d69c7e34ead6701410af5938
+  - enabled: 1
+    path: Assets/Bhuwans Folder/BhuwanScene.unity
+    guid: 8c3e1aeed6d6d4cfdaeb612d8730a968
   - enabled: 1
     path: Assets/Sahils Folder/Scenes/Sahils Scene.unity
     guid: 7f28fdd5a90ff4389afa1ff7710a6aea
